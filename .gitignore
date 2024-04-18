@@ -1,0 +1,2 @@
+## The puropse of a .gitignore file is to make sure cretian files are not tracked.
+## A use case for this is if you had files that you did not want to commit
